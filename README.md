@@ -35,7 +35,9 @@
   - English
 
   <br>
+  <p><strong>Full Techs:</strong></p>
 
+  <br>
   <table>
     <tr>
       <td align="center">
@@ -219,3 +221,6 @@
 <hr>
 <br>
 
+<p align="center">
+  <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
