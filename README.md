@@ -1,52 +1,25 @@
-<img src="assets/Welcome.gif" alt="welcome gif">
+<img src="assets/website.gif" alt="web developer">
 
-<h2 align="center">I'm Steven Chung, but you can call me Jack.🙋‍♂️</h2>
-<p align="center"><i><strong>'You decide your own future on your own way.'</strong></i></p>
-
-<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>. I am <b>passionate</b> about coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>JavaScript</b> projects, but I will master other languages to become a <b>Full-Stack Developer.</b></p>
+<h1 align="center">I'm Braydon Liu</h1>
+<h2 align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=You+decide+your+own+future+on+your+own+way; &center=true&size=15">
+  </a>
+</h2>
+<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>Full Stack Developer with 5 years expereince </b> at <strong><a href="https://microverse.org">TechTIQ Solutions</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
 <br>
 
-<details>
-  <summary><strong>More About Me 🙋‍♂️</strong></summary>
-  <br>
-  <p align="justify">I see you want to know more about me 😁 I will be happy to tell you more. <br>
-  <br>
-    I am <b>18 years old</b>. I recently graduated from high school 🏫 and I will pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I have had an interest in coding since 7th grade, but never really focused on learning to code until now because of school</p>
-   
-   <img height=430 width=320 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
-  
-   **Hobbies** 
-   - Volleyball 🏐
-   - Coding 👨‍💻
-   - Exercise 🏃‍♂️
-   - Gaming 🖱️
-   
-   **Fun facts**
-   - I won a Volleyball tournament
-   - I am addicted to Oreos
-   - I want to be more creative
-   - I am interested in business and investments
-   
-  **I am currently**
-   - Reading 'The 10X Rule by Grant Cardone'📖
-   - Working with JavaScript
-   - Learning ReactJS
-   - Eating a Oreo
-   
-</details>
-
-<hr>
-<br>
 
 <details>
   <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
   <br>
 
-  - Mastering JavaScript
-  - Read 30 min a day📖
+  - Mastering Blockchain Techn
+  - Work than 40-50 hours per week
+  - Have ability to stick to any timezone
+  - Communication Skill & 
   - Sleep early 💤
   - Wake up early ☀️
-
 </details>
 
 <hr>
@@ -63,39 +36,144 @@
 
   <br>
 
-  <p><strong>Front-end Languages</strong></p>
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"> 
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> 
-  
-  <br>
-  <br>
-  
-  <p><strong>Backend-end Languages</strong></p>
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL">
-  
-  <br>
-  <br>
-  
-  <p><strong>Tools</strong></p>
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode">
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack">
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
-  
-  <br>
-  <br>
-  
-  <p><strong>Frameworks</strong></p>
-  
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux">
-  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap">
-  
+  <table>
+    <tr>
+      <td align="center">
+        <img alt="HTML5" height=64px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+        <br>HTML5
+      </td>
+      <td align="center">
+        <img alt="CSS3" height=64px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+        <br>CSS3
+      </td>
+      <td align="center">
+        <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+        <br>Javascript
+      </td>
+      <td align="center">
+        <img alt="React" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+        <br>React
+      </td>
+      <td align="center">
+        <img alt="Angular" height=64px src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+        <br>Angular
+      </td>
+      <td align="center">
+        <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+        <br>Vue
+      </td>
+      <td align="center">
+      <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+      <br>Flutter
+    </td>
+      <td align="center">
+        <img alt="typescript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+        <br>Typescript
+      </td>
+    </tr>
+  <tr>
+    <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+      <br>jQuery
+    </td>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python
+    </td>
+    <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Django
+    </td>
+    <td align="center">
+      <img alt="react" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+      <br>Node.js
+    </td>
+    <td align="center">
+      <img alt="php" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <br>PHP
+    </td>
+    <td align="center">
+      <img alt="react" height=64px src="https://user-images.githubusercontent.com/39632170/109031546-077fa800-76ef-11eb-90ee-f49c93b996b7.png">
+      <br>Java
+    </td>
+    <td align="center">
+      <img alt="tailwind" height=64px src="https://opencv.org/wp-content/uploads/2021/01/OpenCV-logo.png">
+      <br>OpenCV
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <br>Docker
+    </td>
+    <td align="center">
+      <img alt="jenkins" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+      <br>Jenkins
+    </td>
+    <td align="center">
+      <img alt="prometheus" height=64px src="https://cdn.worldvectorlogo.com/logos/prometheus.svg">
+      <br>Prometheus
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+      <br>Git
+    </td>
+    <td align="center">
+      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
+      <br>AWS
+    </td>
+    <td align="center">
+      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+      <br>Firebase
+    </td>
+    <td align="center">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>BASH
+    </td>
+    <td align="center">
+      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+      <br>Nginx
+    </td>
+    <td align="center">
+      <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg">
+      <br>CentOS
+    </td>
+    <td align="center">
+      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
+      <br>Ubuntu
+    </td>
+    <td align="center">
+      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <br>PyCharm
+    </td>
+    <td align="center">
+      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+      <br>WebStorm
+    </td>
+    <td align="center">
+      <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
+      <br>Dart
+    </td>
+    <td align="center">
+      <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+      <br>Flutter
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -119,30 +197,25 @@
 <br>
 
 <details>
-  <summary><strong>GitHub Stats <img width=17 height=17 src="assets/icons/github.svg" alt="github icon"></strong></summary>
+  <summary><strong>GitHub Online <img width=17 height=17 src="assets/icons/github.svg" alt="github icon"></strong></summary>
   <br>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&bg_color=30,697aa2,d1b5cb&title_color=2d6892&icon_color=2d6892"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcy2704&layout=compact&show_icons=true&bg_color=30,d1b5cb,697aa2&title_color=2d6892&icon_color=2d6892"></p>
+  <details>
+  <summary>📊 Github Stats</summary><br>
+  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluedone&count_private=true&show_icons=true&theme=Merko" style="height:214px;"/>
+</details>
+
+<details>
+  <summary>&#11088 Language Stats</summary><br>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluedone&theme=Merko&langs_count=15&layout=compact" />
+</details>
+
+<details>
+  <summary>🔥 Streak stats</summary><br>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluedone&theme=Merko&hide_border=true)](https://git.io/streak-stats)
+</details>
 </details>
 
 <hr>
 <br>
 
-***<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>***
-<p align="center">
-  <a href="https://github.com/jcy2704">
-    <img src="https://img.shields.io/github/followers/jcy2704?color=%23181717&label=JCY2704&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
-  </a>
-  <a href="https://www.linkedin.com/in/stevenjchung">
-    <img src="https://img.shields.io/badge/Steven%20J%20Chung-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
-  </a>
-  <a href="https://twitter.com/yiak_">
-    <img src="https://img.shields.io/twitter/follow/yiak_?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
-  </a>
-  <a href="mailto:stevenjchung12@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
-  </a>
-  
-</p>
-
-<br><br>
-<img width=1140 height=100 src="assets/Footer.png" alt="footer">
