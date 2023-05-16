@@ -1,11 +1,9 @@
+## Hi there, I am Braydon Liu
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;+AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;)](https://git.io/typing-svg)
+
 <img src="assets/website.gif" alt="web developer">
 
-<h1 align="center">I'm Braydon Liu</h1>
-<h2 align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=You+decide+your+own+future+on+your+own+way; &center=true&size=15">
-  </a>
-</h2>
+
 <p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>Full Stack Developer with 5 years expereince </b> at <strong><a href="https://microverse.org">TechTIQ Solutions</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
 <br>
 
