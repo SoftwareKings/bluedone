@@ -1,4 +1,4 @@
-## Hi there, I am Braydon Liu
+## Hi there, I am Lam Siu Ming
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;+AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;)](https://git.io/typing-svg)
 
 <img src="assets/website.gif" alt="web developer">
